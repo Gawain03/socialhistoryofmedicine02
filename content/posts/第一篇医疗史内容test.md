@@ -1,11 +1,11 @@
 ---
-title: "测试：第一篇医疗史内容"
+title: "“老去”"
 date: 2025-12-11
 thumbnail:
-  url: /img/sunrise.jpg
+  url: /assets/img/3.jpg
 draft: false
 categories: ["blogs"]
-tags: ["老"]
+tags: ["writings"]
 description: "在维多利亚时代度过暮年"
 
 ---
