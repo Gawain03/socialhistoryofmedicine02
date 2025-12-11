@@ -48,7 +48,6 @@
     "purgecss-whitelister": "^2.4.0"
   },
   "devDependencies": {
-    "@gethinode/netlify-plugin-dartsass": "^0.3.0",
     "cpy-cli": "^6.0.0",
     "eslint": "^9.39.1",
     "markdownlint-cli2": "^0.19.1",
