@@ -3,7 +3,7 @@ title: "Hello Hinode"
 date: 2025-12-11
 thumbnail:
   url: /img/sunrise.jpg
-draft: false
+draft: true
 categories: ["general"]
 tags: ["hello"]
 
