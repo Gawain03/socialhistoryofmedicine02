@@ -3,7 +3,7 @@ title: "19：40第三次测试"
 date: 2025-12-11T15:00:00+08:00
 thumbnail:
   url: /img/sunrise.jpg
-draft: false
+draft: true
 categories: ["blogs"]
 tags: ["hinode", "hugo", "test","test"]
 summary: "一篇用于测试 Hinode 布局效果的示例文章。"

@@ -28,7 +28,7 @@ content_blocks:
       align: start
     input:
       section: posts
-      tags: ["writings"]
+      tags: ["科普"]
       sort: date
       reverse: true
     limit: 5
