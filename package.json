@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "cpy-cli": "^6.0.0",
-    "eslint": "^9.39.1",
+    "eslint": "^9.39.2",
     "markdownlint-cli2": "^0.19.1",
     "neostandard": "^0.12.2",
     "netlify-plugin-hugo-cache-resources": "^0.2.1",
