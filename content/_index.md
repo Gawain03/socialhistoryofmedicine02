@@ -24,7 +24,7 @@ content_blocks:
 
   - _bookshop_name: articles
     heading:
-      title: "关于维多利亚时代"
+      title: "维多利亚时代的医疗与社会"
       align: start
     input:
       section: posts
@@ -32,6 +32,7 @@ content_blocks:
       sort: date
       reverse: true
     limit: 5
+    cols: 2
     hide-empty: false
     more:
       title: 更多

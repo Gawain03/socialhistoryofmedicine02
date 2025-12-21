@@ -1,0 +1,2 @@
+{{ $custom := resources.Get "scss/custom.scss" | resources.ToCSS | resources.Minify }}
+<link rel="stylesheet" href="{{ $custom.RelPermalink }}">
