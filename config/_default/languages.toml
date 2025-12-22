@@ -3,9 +3,9 @@
     contentDir = "content"
     weight = 1
     [en.params.head]
-        tagline = "A Hugo Theme"
+        tagline = "一个开放的数字博物馆"
     [en.params.social]
-        title = "Follow me"
-        caption = "I work on everything coding and tweet developer memes"
+        title = "关注我们"
+        caption = "本项目致力于通过互动游戏和历史资料等多重维度，呈现一幅维多利亚时代英国医疗文化的全景图。"
     [en.params.footer]
         # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
